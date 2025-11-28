@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: ntn-craftycontroller
+name: CraftyController
+tagline: Game
+icon: https://docs.craftycontrol.com/img/favicon.ico
+category: Game
+version: "1.0.0"
+port: 8443
+description: >-
+  Projeto de gestão financeira. Self-hosted, manual e open source.
+
+developer: felipegcoutinho
+website: https://github.com/felipegcoutinho/opensheets-app
+submitter: Umbrel
+submission: https://github.com/felipegcoutinho/opensheets-app
+repo: https://github.com/felipegcoutinho/opensheets-app
+support: https://github.com/felipegcoutinho/opensheets-app/issues
+gallery:
+  - https://github.com/felipegcoutinho/opensheets-app/raw/main/public/dashboard-preview.png
+releaseNotes: >-
+  Launch
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
