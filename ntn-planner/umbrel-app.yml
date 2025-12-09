@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: ntn-planner
+name: Planner
+tagline: Finance
+icon: https://svgur.com/i/mvA.svg
+category: Finance
+version: "1.0.0"
+port: 3985
+description: >-
+  Projeto de gestão financeira. Self-hosted, manual e open source.
+
+developer: felipegcoutinho
+website: https://github.com/felipegcoutinho/opensheets-app
+submitter: Umbrel
+submission: https://github.com/felipegcoutinho/opensheets-app
+repo: https://github.com/felipegcoutinho/opensheets-app
+support: https://github.com/felipegcoutinho/opensheets-app/issues
+gallery:
+  - https://github.com/felipegcoutinho/opensheets-app/raw/main/public/dashboard-preview.png
+releaseNotes: >-
+  Launch
+dependencies: []
+path: ""
+defaultUsername: "NAT4N"
+defaultPassword: "1234"
