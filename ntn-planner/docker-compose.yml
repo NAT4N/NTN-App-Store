@@ -10,7 +10,7 @@ services:
       POSTGRES_USER: lucasdb # Change this to a more secure username
       POSTGRES_DB: planner_db
     volumes:
-      - ./pgdata:/var/lib/postgresql/data
+      - ./pgdata:/var/lib/postgresql
     ports:
       - "8635:8635"
     networks:
@@ -58,7 +58,7 @@ services:
 
   planner_server:
     container_name: planner_server
-    image: lnardon/planner
+    image: themiranha/planner:latest
     restart: always
     ports:
       - "3985:3985"

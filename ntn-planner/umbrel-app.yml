@@ -3,7 +3,7 @@ id: ntn-planner
 name: Planner
 tagline: Finance
 icon: https://svgur.com/i/mvA.svg
-category: Finance
+category: Productivity
 version: "1.0.0"
 port: 3985
 description: >-
