@@ -2,10 +2,10 @@ manifestVersion: 1
 id: ntn-plane
 name: Plane
 tagline: Finance
-icon: https://media.istockphoto.com/id/1414160809/vector/airplane-icon-plane-flight-pictogram-transport-symbol-travel.jpg
+icon: icon.png
 category: Productivity
 version: "1.0.0"
-port: 3985
+port: 5649
 description: >-
   Projeto de gestão financeira. Self-hosted, manual e open source.
 
