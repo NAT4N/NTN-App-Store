@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: ntn-satisfactory
+name: Satisfactory
+tagline: Productivity
+icon: https://github.com/felipegcoutinho/opensheets-app/raw/main/public/logo_small.png
+category: Productivity
+version: "1.0.0"
+port: 5649
+description: >-
+  Projeto de gestão financeira. Self-hosted, manual e open source.
+
+developer: felipegcoutinho
+website: https://github.com/felipegcoutinho/opensheets-app
+submitter: Umbrel
+submission: https://github.com/felipegcoutinho/opensheets-app
+repo: https://github.com/felipegcoutinho/opensheets-app
+support: https://github.com/felipegcoutinho/opensheets-app/issues
+gallery:
+  - https://github.com/felipegcoutinho/opensheets-app/raw/main/public/dashboard-preview.png
+releaseNotes: >-
+  Launch
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
