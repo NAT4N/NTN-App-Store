@@ -5,6 +5,8 @@ services:
     environment:
       APP_HOST: metube_metube_1
       APP_PORT: 8081
+    port:
+      - '8081:8081'
 
   metube:
     image: ghcr.io/alexta69/metube:2026.03.08@sha256:3de82b0a8c1339a501e0b6ac00e8fa65676144c9ef78f7cc0b6003348d01a97f
