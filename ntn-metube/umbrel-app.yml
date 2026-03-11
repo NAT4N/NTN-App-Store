@@ -9,7 +9,7 @@ description: >-
 developer: Alex Shnitman
 dependencies: []
 repo: https://github.com/alexta69/metube
-port: 3700
+port: 8081
 releaseNotes: >-
   Key highlights:
     - Added cookie file upload support for authenticated downloads
