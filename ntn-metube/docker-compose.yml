@@ -5,7 +5,7 @@ services:
     environment:
       APP_HOST: metube_metube_1
       APP_PORT: 8081
-    port:
+    ports:
       - '8081:8081'
 
   metube:
